@@ -7,3 +7,13 @@ Just a repository for miscellaneous development resources and documentation
 
 1. `$ kill -9 <pid_of_sshfs_process`
 
+## Interesting Python packages
+
+- Cython
+- Black
+- attrs
+- singledispatch
+- tox
+- flake8
+- mypy
+
