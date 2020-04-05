@@ -19,4 +19,5 @@ Just a repository for miscellaneous development resources and documentation
 
 ## dBASE IV Format file structure
 http://www.independent-software.com/dbase-dbf-dbt-file-format.html
+https://www.clicketyclick.dk/databases/xbase/format/dbt.html#DBT_STRUCT
 
