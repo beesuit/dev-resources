@@ -17,3 +17,6 @@ Just a repository for miscellaneous development resources and documentation
 - flake8
 - mypy
 
+## dBASE IV Format file structure
+http://www.independent-software.com/dbase-dbf-dbt-file-format.html
+
