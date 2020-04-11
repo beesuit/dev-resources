@@ -35,4 +35,7 @@ Just a repository for miscellaneous development resources and documentation
 - And: https://github.com/yellowfeather/dbf2csv
 - **Sample** http://people.cs.pitt.edu/~chang/156/06dbase.html
 
+## Flutter
+- **Must have** https://github.com/simformsolutions/flutter_showcaseview
+
 
