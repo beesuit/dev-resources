@@ -17,11 +17,22 @@ Just a repository for miscellaneous development resources and documentation
 - flake8
 - mypy
 
-## Unicode
+## Encoding
 
 - http://unicode.org/reports/tr9/
+- https://www.sljfaq.org/afaq/encodings.html
+- https://uic.win/charset/show/shift_jis/
+- http://lfw.org/text/jp.html
+- http://www.ltg.ed.ac.uk/~richard/utf-8.cgi?input=%E9%BE%8D&mode=char
 
-## dBASE IV Format file structure
+## dBASE IV Format file structure and stuff
 - http://www.independent-software.com/dbase-dbf-dbt-file-format.html
 - https://www.clicketyclick.dk/databases/xbase/format/dbt.html#DBT_STRUCT
+- https://support.esri.com/en/technical-article/000013192
+- https://www.sqlalchemy.org/features.html
+- Check: https://github.com/rnelsonchem/simpledbf
+- Also: https://github.com/olemb/dbfread
+- And: https://github.com/yellowfeather/dbf2csv
+- **Sample** http://people.cs.pitt.edu/~chang/156/06dbase.html
+
 
