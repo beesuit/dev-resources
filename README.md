@@ -1,6 +1,10 @@
 # Development Resources
 Just a repository for miscellaneous development resources and documentation
 
+## Remember to
+- Use fzf (fuzzy searcher) to look for files
+- Use ag (The silver searcher) to look for strings in the files
+
 ## Kill osxfuse
 
 1. `$ pgrep -lf sshfs`
