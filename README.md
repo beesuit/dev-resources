@@ -28,6 +28,12 @@ Just a repository for miscellaneous development resources and documentation
 - https://uic.win/charset/show/shift_jis/
 - http://lfw.org/text/jp.html
 - http://www.ltg.ed.ac.uk/~richard/utf-8.cgi?input=%E9%BE%8D&mode=char
+- **Must see** http://www.spencegreen.com/2008/12/19/python-arabic-unicode/
+
+## Arabic NLP
+- https://github.com/Barqawiz/Shakkala
+- https://github.com/andyroberts/buckwalter2unicode
+- https://github.com/MTG/ArabicTransliterator
 
 ## dBASE IV Format file structure and stuff
 - http://www.independent-software.com/dbase-dbf-dbt-file-format.html
