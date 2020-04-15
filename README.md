@@ -21,6 +21,10 @@ Just a repository for miscellaneous development resources and documentation
 - flake8
 - mypy
 
+## Tools
+- https://medium.com/towards-artificial-intelligence/jupyter-notebook-keyboard-shortcuts-for-beginners-5eef2cb14ce8
+- https://towardsdatascience.com/another-way-to-elevate-your-jupyter-notebook-experience-1965991d4269
+
 ## Encoding
 
 - http://unicode.org/reports/tr9/
@@ -34,6 +38,7 @@ Just a repository for miscellaneous development resources and documentation
 - https://github.com/Barqawiz/Shakkala
 - https://github.com/andyroberts/buckwalter2unicode
 - https://github.com/MTG/ArabicTransliterator
+- http://www.cjk.org/cjk/arabic/cars/cars_sum.pdf
 
 ## dBASE IV Format file structure and stuff
 - http://www.independent-software.com/dbase-dbf-dbt-file-format.html
@@ -48,4 +53,9 @@ Just a repository for miscellaneous development resources and documentation
 ## Flutter
 - **Must have** https://github.com/simformsolutions/flutter_showcaseview
 
+## Cheatsheets
+- Types of distributions: https://st4.ning.com/topology/rest/1.0/file/get/3969609986?profile=original
+- 7 steps of hypothesis testing: https://st6.ning.com/topology/rest/1.0/file/get/4345192898?profile=original
+- VS Code MacOS commands: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+- Naive Bayes: https://storage.ning.com/topology/rest/1.0/file/get/2808321489?profile=original
 
