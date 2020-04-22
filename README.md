@@ -61,4 +61,5 @@ Just a repository for miscellaneous development resources and documentation
 - 7 steps of hypothesis testing: https://st6.ning.com/topology/rest/1.0/file/get/4345192898?profile=original
 - VS Code MacOS commands: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
 - Naive Bayes: https://storage.ning.com/topology/rest/1.0/file/get/2808321489?profile=original
+- Matplotlib: https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf
 
