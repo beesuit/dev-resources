@@ -5,6 +5,9 @@ Just a repository for miscellaneous development resources and documentation
 - Use fzf (fuzzy searcher) to look for files
 - Use ag (The silver searcher) to look for strings in the files
 
+## Postgres
+- pg_dump dbname -U username -h localhost -Fc (Remember to indicate **localhost** otherwise it tries to authenticate based on the OS username)
+
 ## Kill osxfuse
 
 1. `$ pgrep -lf sshfs`
