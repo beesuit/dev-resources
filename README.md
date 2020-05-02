@@ -56,6 +56,10 @@ Just a repository for miscellaneous development resources and documentation
 ## Flutter
 - **Must have** https://github.com/simformsolutions/flutter_showcaseview
 
+### Flutter flavors setup
+1. https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36
+1. https://medium.com/@devrient.jonas/flutter-profiles-in-vscode-product-flavors-c95231818005
+
 ## Cheatsheets
 - Types of distributions: https://st4.ning.com/topology/rest/1.0/file/get/3969609986?profile=original
 - 7 steps of hypothesis testing: https://st6.ning.com/topology/rest/1.0/file/get/4345192898?profile=original
